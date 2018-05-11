@@ -17,6 +17,8 @@ The following is a list of related projects and resources that may be helpful.
 * https://github.com/Great-Hill-Corporation/quickBlocks
 * https://github.com/bigchaindb
 * https://github.com/oceanprotocol (Main repo appears empty, is this open source? https://github.com/oceanprotocol/ocean)
+* https://github.com/poanetwork/poa-explorer
+* https://github.com/ubiq/shokku
 
 ### Discussion threads
 
@@ -26,9 +28,10 @@ The following is a list of related projects and resources that may be helpful.
 * https://ethresear.ch/t/incentives-for-running-full-ethereum-nodes/1239
 * https://ethresear.ch/t/incentivizing-full-state-nodes/1640
 
-### Talks/videos/slides
+### Talks/videos/meetings/slides
 
 * https://gotocon.com/dl/goto-cph-2012/slides/clojure/datomic-in-clojure.pdf
+* [Open source block explorers NOW! meeting playlist from Giveth](https://www.youtube.com/watch?v=CXtkv-HzEso&list=PL4Artm1rmCWE5qYEOTaaPRl4fD5ORXFty)
 * Lane's intro talk at #WalletConf 5/2018 (waiting for video)
 
 ### Papers
