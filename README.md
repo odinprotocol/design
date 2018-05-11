@@ -19,6 +19,7 @@ The following is a list of related projects and resources that may be helpful.
 * https://github.com/oceanprotocol (Main repo appears empty, is this open source? https://github.com/oceanprotocol/ocean)
 * https://github.com/poanetwork/poa-explorer
 * https://github.com/ubiq/shokku
+* https://github.com/MetaMask/mustekala
 
 ### Discussion threads
 
